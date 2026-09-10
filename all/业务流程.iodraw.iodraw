@@ -156,10 +156,19 @@
             <mxRectangle x="20" y="120" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JUtSV15aYgQwlO9aOrq8-3" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;规范化信息,供其它系统使用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="JUtSV15aYgQwlO9aOrq8-2">
-          <mxGeometry x="120" y="24" width="70" height="30" as="geometry" />
+        <mxCell id="JUtSV15aYgQwlO9aOrq8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JUtSV15aYgQwlO9aOrq8-2" source="JUtSV15aYgQwlO9aOrq8-3" target="JUtSV15aYgQwlO9aOrq8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JUtSV15aYgQwlO9aOrq8-3" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;通过一整套工作流分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="JUtSV15aYgQwlO9aOrq8-2">
+          <mxGeometry x="40" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JUtSV15aYgQwlO9aOrq8-5" value="" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="JUtSV15aYgQwlO9aOrq8-2">
+          <mxGeometry x="165" y="5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JUtSV15aYgQwlO9aOrq8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.586;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IUfmVXrIJciPwPp1cruA-1" source="IUfmVXrIJciPwPp1cruA-4" target="IUfmVXrIJciPwPp1cruA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JUtSV15aYgQwlO9aOrq8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IUfmVXrIJciPwPp1cruA-1" source="IUfmVXrIJciPwPp1cruA-15" target="JUtSV15aYgQwlO9aOrq8-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
