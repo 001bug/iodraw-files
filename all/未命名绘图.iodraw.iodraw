@@ -10,7 +10,7 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-5" value="买家 / 消费者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1810" y="45" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-6" value="电商数据中台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FPY_xFw14kELDMkW0VzE-6" value="电商数据中台&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1034" y="217" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-7" value="自动混剪 Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
