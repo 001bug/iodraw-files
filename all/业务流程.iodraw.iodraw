@@ -140,7 +140,7 @@
             <mxRectangle x="20" y="120" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IUfmVXrIJciPwPp1cruA-4" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;用户提问&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="IUfmVXrIJciPwPp1cruA-2">
+        <mxCell id="IUfmVXrIJciPwPp1cruA-4" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;调用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="IUfmVXrIJciPwPp1cruA-2">
           <mxGeometry x="120" y="24" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IUfmVXrIJciPwPp1cruA-14" value="外部电商平台" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="IUfmVXrIJciPwPp1cruA-1">
