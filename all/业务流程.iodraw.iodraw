@@ -71,7 +71,7 @@
         <mxCell id="n5sXzMaEbHcDjmexRfon-3" value="获取视频解析任务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="n5sXzMaEbHcDjmexRfon-2">
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n5sXzMaEbHcDjmexRfon-4" value="数据中台" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="n5sXzMaEbHcDjmexRfon-1">
+        <mxCell id="n5sXzMaEbHcDjmexRfon-4" value="混剪agent" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="n5sXzMaEbHcDjmexRfon-1">
           <mxGeometry x="20" y="110" width="420" height="110" as="geometry">
             <mxRectangle x="20" y="120" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
