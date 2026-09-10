@@ -40,29 +40,6 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-12" value="大语言模型与AI基础服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="187" y="364" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-22" value="自动上架/改价/促销操作" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-8" target="FPY_xFw14kELDMkW0VzE-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1009" y="560" />
-              <mxPoint x="425" y="597" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-23" value="自动发布营销视频" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-7" target="FPY_xFw14kELDMkW0VzE-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="788" y="560" />
-              <mxPoint x="184" y="597" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-24" value="提供内容生成能力" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-12" target="FPY_xFw14kELDMkW0VzE-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="157" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
