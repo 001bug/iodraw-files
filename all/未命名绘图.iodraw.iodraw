@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FPY_xFw14kELDMkW0VzE-1" value="外部平台与底层服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="350" width="628" height="386" as="geometry" />
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-2" value="电商智能多Agent系统 (系统边界)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="668" y="192" width="1295" height="368" as="geometry" />
-        </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-3" value="外部用户/角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1072" y="20" width="930" height="99" as="geometry" />
         </mxCell>
