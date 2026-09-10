@@ -71,6 +71,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FPY_xFw14kELDMkW0VzE-47">
+          <mxGeometry x="-0.8134" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-9" value="客服 Agent&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1376" y="370" width="140" height="49" as="geometry" />
         </mxCell>
