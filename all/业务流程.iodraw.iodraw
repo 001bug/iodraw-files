@@ -99,21 +99,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zCRNNJqe5PHDMLQyOUeJ-6" value="Agent混剪业务-检索生成" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="410" width="440" height="220" as="geometry">
+        <mxCell id="zCRNNJqe5PHDMLQyOUeJ-6" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Agent混剪业务-检索生成&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="440" height="110" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zCRNNJqe5PHDMLQyOUeJ-7" value="电商数据中台" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="zCRNNJqe5PHDMLQyOUeJ-6">
-          <mxGeometry x="20" width="420" height="110" as="geometry">
-            <mxRectangle x="20" width="430" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zCRNNJqe5PHDMLQyOUeJ-8" value="获取视频解析任务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="zCRNNJqe5PHDMLQyOUeJ-7">
-          <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zCRNNJqe5PHDMLQyOUeJ-9" value="混剪agent" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="zCRNNJqe5PHDMLQyOUeJ-6">
-          <mxGeometry x="20" y="110" width="420" height="110" as="geometry">
+          <mxGeometry x="20" width="420" height="110" as="geometry">
             <mxRectangle x="20" y="120" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -132,12 +124,13 @@
         <mxCell id="zCRNNJqe5PHDMLQyOUeJ-14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;存入向量数据库&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="zCRNNJqe5PHDMLQyOUeJ-9">
           <mxGeometry x="287.5" y="18" width="92.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zCRNNJqe5PHDMLQyOUeJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="zCRNNJqe5PHDMLQyOUeJ-6" source="zCRNNJqe5PHDMLQyOUeJ-8" target="zCRNNJqe5PHDMLQyOUeJ-11">
+        <mxCell id="zCRNNJqe5PHDMLQyOUeJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="zCRNNJqe5PHDMLQyOUeJ-6" target="zCRNNJqe5PHDMLQyOUeJ-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="100" />
               <mxPoint x="95" y="100" />
             </Array>
+            <mxPoint x="180" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
