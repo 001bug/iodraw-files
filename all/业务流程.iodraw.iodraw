@@ -58,7 +58,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n5sXzMaEbHcDjmexRfon-1" value="Agent混剪业务" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+        <mxCell id="n5sXzMaEbHcDjmexRfon-1" value="Agent混剪业务-检索生成" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="440" height="420" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -96,7 +96,12 @@
           <mxGeometry x="130" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n5sXzMaEbHcDjmexRfon-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n5sXzMaEbHcDjmexRfon-1" source="n5sXzMaEbHcDjmexRfon-3" target="n5sXzMaEbHcDjmexRfon-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="100" />
+              <mxPoint x="95" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="n5sXzMaEbHcDjmexRfon-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n5sXzMaEbHcDjmexRfon-1" source="n5sXzMaEbHcDjmexRfon-7" target="n5sXzMaEbHcDjmexRfon-9">
           <mxGeometry relative="1" as="geometry" />
