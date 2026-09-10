@@ -86,7 +86,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-50" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FPY_xFw14kELDMkW0VzE-49">
+        <mxCell id="FPY_xFw14kELDMkW0VzE-50" value="自动返现,退款" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FPY_xFw14kELDMkW0VzE-49">
           <mxGeometry x="-0.1852" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
