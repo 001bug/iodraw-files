@@ -14,7 +14,7 @@
           <mxGeometry x="1034" y="217" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-7" value="自动混剪 Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="753" y="600" width="171" height="49" as="geometry" />
+          <mxGeometry x="1020" y="450" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-8" value="店铺行为 Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1298" y="660" width="172" height="49" as="geometry" />
@@ -39,6 +39,14 @@
         </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-30" value="获取店铺信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FPY_xFw14kELDMkW0VzE-29">
           <mxGeometry x="-0.1024" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-31" target="FPY_xFw14kELDMkW0VzE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-33" value="视频数据商品分析后的数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FPY_xFw14kELDMkW0VzE-32">
+          <mxGeometry x="-0.2959" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
