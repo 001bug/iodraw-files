@@ -59,15 +59,15 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-8" value="店铺行为 Agent&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1360" y="217" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-9" target="FPY_xFw14kELDMkW0VzE-27">
+        <mxCell id="FPY_xFw14kELDMkW0VzE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1600" y="20" as="targetPoint" />
-            <mxPoint x="1530" y="380" as="sourcePoint" />
+            <mxPoint x="1090" y="217" as="targetPoint" />
+            <mxPoint x="1816" y="454.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1516" y="390" />
-              <mxPoint x="1560" y="390" />
-              <mxPoint x="1560" y="80" />
-              <mxPoint x="790" y="80" />
+              <mxPoint x="1816" y="450" />
+              <mxPoint x="1860" y="450" />
+              <mxPoint x="1860" y="140" />
+              <mxPoint x="1090" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
