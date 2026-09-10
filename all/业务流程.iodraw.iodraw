@@ -127,8 +127,8 @@
         <mxCell id="zCRNNJqe5PHDMLQyOUeJ-14" value="&lt;font size=&quot;1&quot;&gt;Agent规划scence&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="zCRNNJqe5PHDMLQyOUeJ-9">
           <mxGeometry x="227.25" y="17.5" width="72.75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zCRNNJqe5PHDMLQyOUeJ-16" value="" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="zCRNNJqe5PHDMLQyOUeJ-9">
-          <mxGeometry x="320.01" y="40" width="100" height="25" as="geometry" />
+        <mxCell id="zCRNNJqe5PHDMLQyOUeJ-16" value="视频剪辑接口" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="zCRNNJqe5PHDMLQyOUeJ-9">
+          <mxGeometry x="330" y="10" width="130" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
