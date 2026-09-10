@@ -37,11 +37,8 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-7" value="自动混剪 Agent&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1020" y="390" width="171" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1389" y="234.5" as="sourcePoint" />
-            <mxPoint x="1190" y="229.25" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-8" target="FPY_xFw14kELDMkW0VzE-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-8" value="店铺行为 Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1390" y="210" width="172" height="49" as="geometry" />
