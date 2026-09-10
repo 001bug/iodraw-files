@@ -1,1 +1,151 @@
-<mxfile host="Electron" modified="2025-01-12T08:33:14.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw/3.3.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" etag="vq1FfAJE9txcJ9VNgPcs" version="13.3.6" type="device"><diagram id="TRR81YKNcHLBvhrahyJR" name="第 1 页">jZLJboMwEIafhmOlGFoox5Skm1L1QKueXTzBVg1GxgTo09eUMYuiSLmg8Tcb8894QVJ0T5pW/E0xkJ6/YZ0X7Dzfj8I7+x1AP4L7OB5BrgUbEZlBKn4B4QZpIxjUq0CjlDSiWsNMlSVkZsWo1qpdhx2VXHetaA5nIM2oPKdfghmOU/jRzJ9B5Nx1JiHOV1AXjJPUnDLVLlCw94JEK2VGq+gSkIN2Tpcx7/GCd/oxDaW5JoFyso0+4t1r8ZO9H+Lj9tC93GCVE5UNDvxZg05Bn0QGnh9KW/rhW1srHyypclHiOKZ3GmnVlAyGNhsb03JhIK1oNnhbexSWcVNI+yLWxIagDXQXJyGTPvauQBVgdG9DMMG/RUnxpoh7t/OGiJOdL7YTIqN4FPlUetbNGiide84r+vct7jzY/wE=</diagram></mxfile>
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="Anf23ED8zgMBPIORxRTr">
+    <mxGraphModel dx="2074" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FPY_xFw14kELDMkW0VzE-1" value="外部平台与底层服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="339" width="628" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-2" value="电商智能多Agent系统 (系统边界)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="668" y="192" width="1295" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-3" value="外部用户/角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="20" width="930" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-4" value="商家 / 运营人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="45" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-5" value="买家 / 消费者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="45" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-6" value="电商数据中台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1034" y="217" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-7" value="自动混剪 Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="703" y="486" width="171" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-8" value="店铺行为 Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="924" y="486" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-9" value="客服 Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="486" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-10" value="第三方电商平台&#xa;(淘宝/京东/拼多多等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="363" y="633" width="250" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-11" value="短视频/内容平台&#xa;(抖音/快手/小红书等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="633" width="258" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-12" value="大语言模型与AI基础服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="187" y="364" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-13" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-6" target="FPY_xFw14kELDMkW0VzE-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="788" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-14" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-6" target="FPY_xFw14kELDMkW0VzE-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1009" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-15" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-6" target="FPY_xFw14kELDMkW0VzE-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1215" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-16" value="查看分析报表/下发指令" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-4" target="FPY_xFw14kELDMkW0VzE-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1112" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-17" value="配置营销策略与任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=1;entryY=0.34;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-4" target="FPY_xFw14kELDMkW0VzE-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1436" y="119" />
+              <mxPoint x="1436" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-18" value="设置自动化运营规则" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=1;entryY=0.32;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-4" target="FPY_xFw14kELDMkW0VzE-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1604" y="119" />
+              <mxPoint x="1604" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-19" value="监督与干预对话" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=1;entryY=0.34;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-4" target="FPY_xFw14kELDMkW0VzE-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1756" y="119" />
+              <mxPoint x="1756" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-20" value="咨询/售后交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-5" target="FPY_xFw14kELDMkW0VzE-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1889" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-21" value="商品/订单/用户数据同步" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.96;entryX=0.63;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-6" target="FPY_xFw14kELDMkW0VzE-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1326" y="303" />
+              <mxPoint x="1326" y="560" />
+              <mxPoint x="558" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-22" value="自动上架/改价/促销操作" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-8" target="FPY_xFw14kELDMkW0VzE-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1009" y="560" />
+              <mxPoint x="425" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-23" value="自动发布营销视频" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-7" target="FPY_xFw14kELDMkW0VzE-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="788" y="560" />
+              <mxPoint x="184" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-24" value="提供内容生成能力" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-12" target="FPY_xFw14kELDMkW0VzE-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="157" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-25" value="提供策略决策能力" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-12" target="FPY_xFw14kELDMkW0VzE-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-26" value="提供意图理解与对话能力" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-12" target="FPY_xFw14kELDMkW0VzE-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="487" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
