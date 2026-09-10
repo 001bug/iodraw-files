@@ -93,7 +93,7 @@
         </mxCell>
         <mxCell id="n5sXzMaEbHcDjmexRfon-6" value="脚本平台" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="n5sXzMaEbHcDjmexRfon-1">
           <mxGeometry x="20" y="220" width="420" height="100" as="geometry">
-            <mxRectangle x="20" y="240" width="430" height="30" as="alternateBounds" />
+            <mxRectangle x="20" y="220" width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n5sXzMaEbHcDjmexRfon-7" value="解析URL下载视频" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="n5sXzMaEbHcDjmexRfon-6">
