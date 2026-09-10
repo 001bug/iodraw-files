@@ -36,7 +36,7 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-11" value="短视频/内容平台&#xa;(抖音/快手/小红书等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="633" width="258" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-12" value="大语言模型与AI基础服务" style="whiteSpace=wrap;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="FPY_xFw14kELDMkW0VzE-12" value="大语言模型与AI基础服务" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="730" y="390" width="166" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-27" value="外部电商平台&lt;div&gt;(外部系统)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
