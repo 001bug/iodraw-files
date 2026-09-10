@@ -25,9 +25,6 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-10" value="第三方电商平台&#xa;(淘宝/京东/拼多多等)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="363" y="633" width="250" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-11" value="短视频/内容平台&#xa;(抖音/快手/小红书等)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="55" y="633" width="258" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-12" value="大语言模型与AI基础服务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="187" y="364" width="236" height="49" as="geometry" />
         </mxCell>
@@ -68,7 +65,7 @@
           <mxGeometry x="520" y="1051.5" width="180" height="82" as="geometry" />
         </mxCell>
         <mxCell id="tr_verify" value="验证用户身份" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#5b8c5a;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="740" y="1230" width="150" height="65" as="geometry" />
+          <mxGeometry x="753" y="1245" width="150" height="65" as="geometry" />
         </mxCell>
         <mxCell id="tr_gateway" value="验证通过？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;fontSize=13;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="1215" width="95" height="95" as="geometry" />
@@ -157,9 +154,6 @@
         </mxCell>
         <mxCell id="e12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" source="tr_send_mail" target="tr_end" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="transfer_note" value="说明：新增流程位于原图下方；原有节点与内容均保留。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#666666;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1710" width="620" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
