@@ -40,13 +40,6 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-12" value="大语言模型与AI基础服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="187" y="364" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-13" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-6" target="FPY_xFw14kELDMkW0VzE-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="788" y="303" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-14" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-6" target="FPY_xFw14kELDMkW0VzE-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
