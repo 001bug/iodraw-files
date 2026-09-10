@@ -31,12 +31,6 @@
         <mxCell id="lane_mail_label" value="邮件服务系统" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="1520" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="tr_start" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="255" y="1063.5" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="tr_login" value="登录系统" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#4a73a8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="345" y="1060" width="130" height="65" as="geometry" />
-        </mxCell>
         <mxCell id="tr_initiate" value="发起转账&amp;#xa;（填写收款信息）" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#4a73a8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="520" y="1051.5" width="180" height="82" as="geometry" />
         </mxCell>
@@ -70,11 +64,16 @@
         <mxCell id="tr_end" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1840" y="1572" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" source="tr_start" target="tr_login" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312.9999850853087" y="1092.5294117647059" as="sourcePoint" />
+            <mxPoint x="345" y="1092.5294117647059" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="e2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" source="tr_login" target="tr_initiate" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" target="tr_initiate" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="1092.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" source="tr_initiate" target="tr_verify" edge="1">
           <mxGeometry relative="1" as="geometry">
