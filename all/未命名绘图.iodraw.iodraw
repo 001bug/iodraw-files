@@ -13,6 +13,9 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-6" value="电商数据中台&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1034" y="217" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-7" target="FPY_xFw14kELDMkW0VzE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-7" value="自动混剪 Agent&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1020" y="410" width="171" height="49" as="geometry" />
         </mxCell>
@@ -60,6 +63,9 @@
           <mxGeometry x="0.1939" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-12" target="FPY_xFw14kELDMkW0VzE-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
