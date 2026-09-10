@@ -40,13 +40,6 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-12" value="大语言模型与AI基础服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="187" y="364" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-16" value="查看分析报表/下发指令" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-4" target="FPY_xFw14kELDMkW0VzE-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1112" y="119" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-22" value="自动上架/改价/促销操作" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-8" target="FPY_xFw14kELDMkW0VzE-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -67,20 +60,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="157" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-25" value="提供策略决策能力" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-12" target="FPY_xFw14kELDMkW0VzE-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-26" value="提供意图理解与对话能力" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-12" target="FPY_xFw14kELDMkW0VzE-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="487" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
