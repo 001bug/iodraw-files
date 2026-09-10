@@ -48,10 +48,15 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-8" target="FPY_xFw14kELDMkW0VzE-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1360" y="217" />
-              <mxPoint x="1360" y="137" />
+              <mxPoint x="1440" y="217" />
+              <mxPoint x="1440" y="137" />
               <mxPoint x="790" y="137" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FPY_xFw14kELDMkW0VzE-45">
+          <mxGeometry x="0.0026" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-8" value="店铺行为 Agent&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
