@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Anf23ED8zgMBPIORxRTr">
-    <mxGraphModel dx="2074" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,13 +59,13 @@
           <mxGeometry x="100" y="1520" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="tr_start" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1065" width="58" height="58" as="geometry" />
+          <mxGeometry x="255" y="1063.5" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="tr_login" value="登录系统" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#4a73a8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1060" width="130" height="65" as="geometry" />
+          <mxGeometry x="345" y="1060" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="tr_initiate" value="发起转账&amp;#xa;（填写收款信息）" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#4a73a8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1050" width="180" height="82" as="geometry" />
+          <mxGeometry x="520" y="1051.5" width="180" height="82" as="geometry" />
         </mxCell>
         <mxCell id="tr_verify" value="验证用户身份" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#5b8c5a;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="740" y="1230" width="150" height="65" as="geometry" />
