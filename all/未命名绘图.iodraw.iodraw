@@ -40,7 +40,12 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-8" target="FPY_xFw14kELDMkW0VzE-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-8" value="店铺行为 Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FPY_xFw14kELDMkW0VzE-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FPY_xFw14kELDMkW0VzE-43">
+          <mxGeometry x="-0.0251" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPY_xFw14kELDMkW0VzE-8" value="店铺行为 Agent&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1390" y="217" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-9" value="客服 Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
