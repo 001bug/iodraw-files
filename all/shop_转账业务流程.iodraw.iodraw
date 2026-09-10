@@ -4,30 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FPY_xFw14kELDMkW0VzE-4" value="商家 / 运营人员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1433" y="45" width="174" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-5" value="买家 / 消费者" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1810" y="45" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-6" value="电商数据中台" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1034" y="217" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-7" value="自动混剪 Agent" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="753" y="600" width="171" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-8" value="店铺行为 Agent" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1298" y="660" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-9" value="客服 Agent" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1042.5" y="830" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-10" value="第三方电商平台&#xa;(淘宝/京东/拼多多等)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="363" y="633" width="250" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-12" value="大语言模型与AI基础服务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="187" y="364" width="236" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="transfer_title" value="转账业务流程（泳道图）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="960" width="500" height="45" as="geometry" />
         </mxCell>
@@ -74,7 +50,7 @@
           <mxGeometry x="1110" y="1230" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="tr_submit" value="提交转账请求" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#5b8c5a;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="940" y="1300" width="150" height="60" as="geometry" />
+          <mxGeometry x="950" y="1320" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tr_process" value="处理转账交易" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#8064a2;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1400" width="160" height="65" as="geometry" />
