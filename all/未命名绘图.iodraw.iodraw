@@ -40,64 +40,10 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-12" value="大语言模型与AI基础服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="187" y="364" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-14" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-6" target="FPY_xFw14kELDMkW0VzE-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1009" y="303" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-15" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-6" target="FPY_xFw14kELDMkW0VzE-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1215" y="303" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-16" value="查看分析报表/下发指令" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-4" target="FPY_xFw14kELDMkW0VzE-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1112" y="119" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-17" value="配置营销策略与任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=1;entryY=0.34;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-4" target="FPY_xFw14kELDMkW0VzE-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1436" y="119" />
-              <mxPoint x="1436" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-18" value="设置自动化运营规则" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=1;entryY=0.32;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-4" target="FPY_xFw14kELDMkW0VzE-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1604" y="119" />
-              <mxPoint x="1604" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-19" value="监督与干预对话" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=1;entryY=0.34;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-4" target="FPY_xFw14kELDMkW0VzE-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1756" y="119" />
-              <mxPoint x="1756" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-20" value="咨询/售后交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-5" target="FPY_xFw14kELDMkW0VzE-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1889" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-21" value="商品/订单/用户数据同步" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.96;entryX=0.63;entryY=0;rounded=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-6" target="FPY_xFw14kELDMkW0VzE-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1326" y="303" />
-              <mxPoint x="1326" y="560" />
-              <mxPoint x="558" y="597" />
             </Array>
           </mxGeometry>
         </mxCell>
