@@ -31,59 +31,6 @@
         <mxCell id="lane_mail_label" value="邮件服务系统" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="1520" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="tr_process" value="处理转账交易" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#8064a2;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="1400" width="160" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="tr_result" value="返回交易结果" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#8064a2;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="1400" width="160" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="tr_display" value="展示交易结果" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#5b8c5a;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="1230" width="160" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="tr_notify" value="发送交易通知&amp;#xa;（邮件）" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#5b8c5a;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="1220" width="170" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="tr_send_mail" value="发送邮件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffffff;strokeColor=#b85450;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1635" y="1570" width="150" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="tr_end" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="1572" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="e7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" target="tr_process" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1085" y="1330" />
-              <mxPoint x="1085" y="1432" />
-            </Array>
-            <mxPoint x="1085.0588235294122" y="1380" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" source="tr_process" target="tr_result" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" source="tr_result" target="tr_display" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1450" y="1365" />
-              <mxPoint x="1500" y="1365" />
-              <mxPoint x="1500" y="1295" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" source="tr_display" target="tr_notify" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" source="tr_notify" target="tr_send_mail" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1715" y="1335" />
-              <mxPoint x="1715" y="1565" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" parent="1" source="tr_send_mail" target="tr_end" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
