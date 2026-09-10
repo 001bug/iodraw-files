@@ -94,9 +94,6 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-9" value="客服 Agent&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1376" y="370" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-10" value="第三方电商平台&#xa;(淘宝/京东/拼多多等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="363" y="633" width="250" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-11" value="短视频/内容平台&#xa;(抖音/快手/小红书等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="633" width="258" height="67" as="geometry" />
         </mxCell>
