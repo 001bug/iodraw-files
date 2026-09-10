@@ -135,7 +135,7 @@
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IUfmVXrIJciPwPp1cruA-2" value="混剪agent" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="IUfmVXrIJciPwPp1cruA-1">
+        <mxCell id="IUfmVXrIJciPwPp1cruA-2" value="数据中台" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="IUfmVXrIJciPwPp1cruA-1">
           <mxGeometry x="20" width="476.375" height="110" as="geometry">
             <mxRectangle x="20" y="120" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
