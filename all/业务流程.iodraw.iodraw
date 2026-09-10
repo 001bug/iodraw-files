@@ -58,7 +58,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n5sXzMaEbHcDjmexRfon-1" value="Agent混剪业务-检索生成" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+        <mxCell id="n5sXzMaEbHcDjmexRfon-1" value="Agent混剪业务-索引构建" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="440" height="220" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zCRNNJqe5PHDMLQyOUeJ-6" value="Agent混剪业务-检索生成" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="140" width="440" height="220" as="geometry">
+          <mxGeometry x="120" y="410" width="440" height="220" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
