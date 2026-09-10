@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FPY_xFw14kELDMkW0VzE-4" value="客服Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1433" y="45" width="174" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-5" value="买家 / 消费者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1810" y="45" width="158" height="49" as="geometry" />
         </mxCell>
@@ -62,8 +59,8 @@
         <mxCell id="FPY_xFw14kELDMkW0VzE-8" value="店铺行为 Agent&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1360" y="217" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-9" value="客服 Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1042.5" y="830" width="140" height="49" as="geometry" />
+        <mxCell id="FPY_xFw14kELDMkW0VzE-9" value="客服 Agent&#xa;(待开发系统)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="370" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FPY_xFw14kELDMkW0VzE-10" value="第三方电商平台&#xa;(淘宝/京东/拼多多等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="363" y="633" width="250" height="67" as="geometry" />
