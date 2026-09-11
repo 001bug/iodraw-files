@@ -188,8 +188,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ac3FTNGN8xdmMLocIOAN-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;商品卡分析与生成&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="570" width="340" height="440" as="geometry">
+        <mxCell id="ac3FTNGN8xdmMLocIOAN-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;产品自动迭代与上架&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="340" height="440" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
