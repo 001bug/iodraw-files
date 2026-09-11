@@ -75,20 +75,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.991;entryDx=0;entryDy=0;exitX=0.464;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="FPY_xFw14kELDMkW0VzE-9" target="FPY_xFw14kELDMkW0VzE-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1440" y="483" as="sourcePoint" />
-            <mxPoint x="720" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1441" y="490" />
-              <mxPoint x="710" y="490" />
-              <mxPoint x="710" y="187" />
-              <mxPoint x="1451" y="187" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="IwK4jBGfUoWuPz9soWY4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPY_xFw14kELDMkW0VzE-9" target="FPY_xFw14kELDMkW0VzE-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FPY_xFw14kELDMkW0VzE-50" value="自动返现,退款" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FPY_xFw14kELDMkW0VzE-49" vertex="1" connectable="0">
-          <mxGeometry x="-0.1852" y="-2" relative="1" as="geometry">
+        <mxCell id="IwK4jBGfUoWuPz9soWY4-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IwK4jBGfUoWuPz9soWY4-1">
+          <mxGeometry x="-0.1346" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
