@@ -134,7 +134,7 @@
           <mxGeometry x="1116" y="520" width="400" height="220" as="geometry" />
         </mxCell>
         <mxCell id="EHnN-5JMt6VZSSjQmQwS-3" value="&lt;p data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;&lt;b&gt;店铺行为系统&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;&lt;strong data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;定位：&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;根据数据分析结果自动完成商品及店铺运营操作。&lt;/span&gt;&lt;/p&gt;&lt;p data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;主要负责执行&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;其它系统的执行策略. 比如上架, 回复客户&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="700" y="760" width="400" height="220" as="geometry" />
+          <mxGeometry x="700" y="780" width="400" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
