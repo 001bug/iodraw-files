@@ -130,6 +130,9 @@
         <mxCell id="EHnN-5JMt6VZSSjQmQwS-1" value="&lt;p data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;&lt;strong data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;电商数据中台&lt;/strong&gt;&lt;/p&gt;&lt;p data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;&lt;strong data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;定位：整个系统的数据汇聚、清洗、规范化和共享中心。&lt;/strong&gt;&lt;/p&gt;&lt;p data-end=&quot;229&quot; data-start=&quot;135&quot;&gt;主要负责从外部电商平台、人工 Excel 等渠道获取店铺、商品、视频、转化率、点击率、售后等业务数据；按照业务规则对数据进行筛选、整理和标准化，并形成统一的数据结构供各 Agent 使用。&lt;/p&gt;&lt;p data-end=&quot;317&quot; data-start=&quot;231&quot;&gt;同时负责视频素材等业务数据的沉淀。例如根据点击率、转化率等指标筛选优秀视频 URL，完成视频解析任务的数据管理，并接收自动混剪 Agent 审批通过后的成品或素材重新沉淀。&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="520" width="400" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="EHnN-5JMt6VZSSjQmQwS-2" value="&lt;p data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;&lt;strong data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;电商数据中台&lt;/strong&gt;&lt;/p&gt;&lt;p data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;&lt;strong data-end=&quot;133&quot; data-start=&quot;104&quot;&gt;定位：整个系统的数据汇聚、清洗、规范化和共享中心。&lt;/strong&gt;&lt;/p&gt;&lt;p data-end=&quot;229&quot; data-start=&quot;135&quot;&gt;主要负责从外部电商平台、人工 Excel 等渠道获取店铺、商品、视频、转化率、点击率、售后等业务数据；按照业务规则对数据进行筛选、整理和标准化，并形成统一的数据结构供各 Agent 使用。&lt;/p&gt;&lt;p data-end=&quot;317&quot; data-start=&quot;231&quot;&gt;同时负责视频素材等业务数据的沉淀。例如根据点击率、转化率等指标筛选优秀视频 URL，完成视频解析任务的数据管理，并接收自动混剪 Agent 审批通过后的成品或素材重新沉淀。&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="530" width="400" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
