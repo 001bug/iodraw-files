@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="shop-agent-er" name="shop-agent 视频 RAG 数据模型">
-    <mxGraphModel dx="2314" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1450" math="0" shadow="0">
+    <mxGraphModel dx="1322" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1450" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="20" y="70" width="1060" height="1218" as="geometry" />
         </mxCell>
         <mxCell id="region_pg" value="pgvector · shop_agent_pgvector" style="rounded=0;html=1;dashed=1;dashPattern=8 4;fillColor=none;strokeColor=#9e9e9e;verticalAlign=top;align=left;spacingLeft=10;spacingTop=6;fontSize=13;fontStyle=1;fontColor=#757575;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="544" width="340" height="494" as="geometry" />
+          <mxGeometry x="1260" y="630" width="340" height="494" as="geometry" />
         </mxCell>
         <mxCell id="t_video" value="shop_agent_video&lt;br&gt;&lt;font style=&quot;font-size:10px&quot;&gt;视频主数据表&lt;/font&gt;" style="shape=table;startSize=44;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="40" y="110" width="300" height="718" as="geometry" />
@@ -1268,7 +1268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t_scene" value="shop_agent_video_scene&lt;br&gt;&lt;font style=&quot;font-size:10px&quot;&gt;视频场景表（RAG 检索单元）&lt;/font&gt;" style="shape=table;startSize=44;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="760" y="590" width="300" height="666" as="geometry" />
+          <mxGeometry x="810" y="598" width="300" height="666" as="geometry" />
         </mxCell>
         <mxCell id="t_scene_r0" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;right=0;bottom=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" parent="t_scene" vertex="1">
           <mxGeometry y="44" width="300" height="26" as="geometry" />
@@ -1703,7 +1703,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t_vec" value="shop_agent_video_scene_vector&lt;br&gt;&lt;font style=&quot;font-size:10px&quot;&gt;视频场景向量索引表&lt;/font&gt;" style="shape=table;startSize=44;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="590" width="300" height="434" as="geometry" />
+          <mxGeometry x="1280" y="660" width="300" height="434" as="geometry" />
         </mxCell>
         <mxCell id="t_vec_r0" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;right=0;bottom=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" parent="t_vec" vertex="1">
           <mxGeometry y="44" width="300" height="26" as="geometry" />
