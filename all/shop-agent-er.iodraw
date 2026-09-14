@@ -2003,7 +2003,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6" value="1:N" style="edgeStyle=entityRelationEdgeStyle;fontSize=10;html=1;rounded=0;startArrow=ERone;endArrow=ERmany;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t_task_r0" target="t_scene_r2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e7" value="1:1 跨库" style="edgeStyle=entityRelationEdgeStyle;fontSize=10;html=1;rounded=0;startArrow=ERone;endArrow=ERone;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t_scene_r0" target="t_vec_r0" edge="1">
           <mxGeometry relative="1" as="geometry" />
