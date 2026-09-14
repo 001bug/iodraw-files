@@ -1981,13 +1981,15 @@
         <mxCell id="e1" value="1:N" style="edgeStyle=entityRelationEdgeStyle;fontSize=10;html=1;rounded=0;startArrow=ERone;endArrow=ERmany;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t_video_r0" target="t_log_r2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2" value="1:N" style="edgeStyle=entityRelationEdgeStyle;fontSize=10;html=1;rounded=0;startArrow=ERone;endArrow=ERmany;entryX=0.009;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="t_task_r0" target="t_log_r1" edge="1">
+        <mxCell id="e2" value="1:N" style="edgeStyle=entityRelationEdgeStyle;fontSize=10;html=1;rounded=0;startArrow=ERone;endArrow=ERmany;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="80" as="sourcePoint" />
+            <mxPoint x="440" y="686" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="620" y="390" />
-              <mxPoint x="460" y="530" />
-              <mxPoint x="470" y="530" />
-              <mxPoint x="440" y="530" />
+              <mxPoint x="620" y="393" />
+              <mxPoint x="460" y="533" />
+              <mxPoint x="470" y="533" />
+              <mxPoint x="440" y="533" />
             </Array>
           </mxGeometry>
         </mxCell>
