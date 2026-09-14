@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="shop-agent-er" name="shop-agent 视频 RAG 数据模型">
-    <mxGraphModel dx="643" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1450" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1450" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1999,7 +1999,7 @@
         <mxCell id="e7" value="1:1 跨库" style="edgeStyle=entityRelationEdgeStyle;fontSize=10;html=1;rounded=0;startArrow=ERone;endArrow=ERone;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t_scene_r0" target="t_vec_r0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e8" value="冗余指针" style="edgeStyle=entityRelationEdgeStyle;fontSize=10;html=1;rounded=0;startArrow=ERone;endArrow=ERone;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#9e9e9e;" parent="1" source="t_video_r15" target="t_task_r0" edge="1">
+        <mxCell id="e8" value="冗余指针" style="edgeStyle=entityRelationEdgeStyle;fontSize=10;html=1;rounded=0;startArrow=ERone;endArrow=ERone;exitX=0.994;exitY=0.517;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#9e9e9e;exitPerimeter=0;" parent="1" source="t_video_r15" target="t_task_r0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9" value="冗余指针" style="edgeStyle=entityRelationEdgeStyle;fontSize=10;html=1;rounded=0;startArrow=ERone;endArrow=ERone;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#9e9e9e;" parent="1" source="t_video_r16" target="t_task_r0" edge="1">
