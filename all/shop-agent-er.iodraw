@@ -485,7 +485,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t_task" value="shop_agent_video_task&lt;br&gt;&lt;font style=&quot;font-size:10px&quot;&gt;视频异步任务表&lt;/font&gt;" style="shape=table;startSize=44;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="430" y="54" width="300" height="434" as="geometry" />
+          <mxGeometry x="480" y="20" width="300" height="434" as="geometry" />
         </mxCell>
         <mxCell id="t_task_r0" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;right=0;bottom=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" parent="t_task" vertex="1">
           <mxGeometry y="44" width="300" height="26" as="geometry" />
@@ -758,7 +758,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t_log" value="shop_agent_video_task_log&lt;br&gt;&lt;font style=&quot;font-size:10px&quot;&gt;视频任务执行日志表&lt;/font&gt;" style="shape=table;startSize=44;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#000000;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="400" y="590" width="300" height="386" as="geometry" />
+          <mxGeometry x="440" y="598" width="300" height="386" as="geometry" />
         </mxCell>
         <mxCell id="t_log_r0" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;right=0;bottom=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" parent="t_log" vertex="1">
           <mxGeometry y="44" width="300" height="26" as="geometry" />
@@ -995,7 +995,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t_parse" value="shop_agent_video_parse_result&lt;br&gt;&lt;font style=&quot;font-size:10px&quot;&gt;视频解析结果头表&lt;/font&gt;" style="shape=table;startSize=44;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#000000;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="880" y="54" width="300" height="438" as="geometry" />
+          <mxGeometry x="1050" y="50" width="300" height="438" as="geometry" />
         </mxCell>
         <mxCell id="t_parse_r0" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;right=0;bottom=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" parent="t_parse" vertex="1">
           <mxGeometry y="44" width="300" height="26" as="geometry" />
