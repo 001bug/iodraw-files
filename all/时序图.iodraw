@@ -193,12 +193,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="za1UfwY5qF0pF0fam7a6-35" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.4118" y="184" relative="1" as="geometry">
             <mxPoint x="790" y="460" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="820" y="490" />
             </Array>
             <mxPoint x="795" y="490" as="targetPoint" />
+            <mxPoint x="120" y="-44" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
