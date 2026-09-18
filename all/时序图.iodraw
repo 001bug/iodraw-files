@@ -183,7 +183,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="84ETIlGo3YBDXUW-QaFz-33" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="19" target="19">
+        <mxCell id="84ETIlGo3YBDXUW-QaFz-33" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" source="19" target="19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
