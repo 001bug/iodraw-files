@@ -192,6 +192,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="za1UfwY5qF0pF0fam7a6-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="785" y="480" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za1UfwY5qF0pF0fam7a6-35" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="za1UfwY5qF0pF0fam7a6-34" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="820" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
