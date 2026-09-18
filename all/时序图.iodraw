@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="27" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;VideoManagePg&lt;br&gt;VectorSupport&lt;br&gt;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1160" y="170" width="100" height="420" as="geometry" />
+          <mxGeometry x="1080" y="170" width="100" height="450" as="geometry" />
         </mxCell>
         <mxCell id="32" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" target="19" edge="1">
           <mxGeometry relative="1" as="geometry">
